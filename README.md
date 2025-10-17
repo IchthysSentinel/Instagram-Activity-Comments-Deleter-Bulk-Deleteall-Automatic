@@ -8,7 +8,7 @@ A simple JavaScript tool to help you bulk delete your own comments from Instagra
 
 > ⚠️ For educational and personal use only. Use responsibly and at your own risk.
 
----
+---Originally inspired by this Gist by sbole. Made Changes to suit current layout
 
 ## 🚀 Features
 
