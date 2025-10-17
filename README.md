@@ -21,7 +21,7 @@ A simple JavaScript tool to help you bulk delete your own comments from Instagra
 ## 🛠️ How to Use (Chrome Desktop)
 
 1. Go to [https://www.instagram.com/your_activity/interactions/comments](https://www.instagram.com/your_activity/interactions/comments)
-2. Make sure you're logged in to your Instagram account
+2. Make sure you're logged in to your Instagram account( use chrome browser without any extensions running)
 3. Press `F12` or right-click and select **Inspect** to open **Developer Tools**
 4. Click on the **Console** tab
 5. Copy the contents of [`script.js`](./script.js) and paste it into the Console
@@ -31,10 +31,12 @@ A simple JavaScript tool to help you bulk delete your own comments from Instagra
    - Select your comments in batches
    - Delete them with confirmation
    - Repeat until all are gone ✅
+  
+   -🚨 🚧 ⚠️ I successfully deleted 4,600 comments automatically. To ensure the process runs smoothly, disable all power management settings — including screen dimming, backlight timeout, and screensavers — as they may interrupt the script. If you see an error message like “Something went wrong. There was a problem with your request,” just click OK and wait — the script will continue deleting comments automatically.
 
 ---
 
-## 📦 Code Example
+## 📦 Code 
 
 You can find the full script in [`script.js`](./script.js)
 
